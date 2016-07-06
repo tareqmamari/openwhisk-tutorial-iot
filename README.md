@@ -61,3 +61,6 @@ Openwhisk provides a powerful event subscription management through both trigger
 Now, in order to associate an action to a trigger, that is can be done through rules. To create a rule:
 
 `wsk action rule create iotToSMSRule --enable rtiFeed iotToSMS`
+
+#Send data to IoT Platform
+You can use sendEvent.js to send data to simulate a device.
