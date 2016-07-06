@@ -5,11 +5,11 @@
 var Client = require("ibmiotf");
 var config = {
     // "org" : "hqrsf7",
-     "org" : "zxdo1w",
-    "id" : "newDevice",
-    "type" : "sampleiot",
+     "org" : "XXXXXX",
+    "id" : "YYYYYYY",
+    "type" : "ZZZZZZ",
     "auth-method" : "token",
-    "auth-token" : "newYemen123"
+    "auth-token" : "XXXXXXX"
 };
  //U-wF6jSjQY8@-JHzC@
  //a-hqrsf7-ymwwmsqmrh
